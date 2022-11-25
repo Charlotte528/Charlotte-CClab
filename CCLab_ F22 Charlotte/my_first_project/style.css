@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+
+p {
+    background: yellowgreen;
+    color: blue;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+a {
+    background: purple;
+    color: aqua;
+    font-display:
+        font-size: 30pt;
+}
+
+h1 {
+    font-size: italic;
+    font-weight: 300;
+    text-decoration: underline;
+}
